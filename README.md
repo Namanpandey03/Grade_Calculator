@@ -65,3 +65,16 @@ I'm an aspiring data analyst sharing my learning journey through real-world Pyth
 ---
 
 > ⭐ Star this repo if you found it helpful or inspiring!
+
+
+
+
+
+## 🔄 Update: Version 2
+
+This version introduces a **save feature**.  
+- After calculating grades, the program asks if you want to save the results.  
+- If you choose to save, the grades are stored in a text file (`grades.txt`) inside the project folder.  
+- This makes it easy to keep track of your grades over time.
+
+👉 Check out the code in `grade_calculator_v2.py`.
